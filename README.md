@@ -35,4 +35,4 @@ Ce dépôt contient les fichiers suivants :
 
 ---
 
-Ce projet vous permettra d’acquérir une compréhension pratique et théorique des fondamentaux de TensorFlow 2.0 e, Deep Learning.
+Ce projet vous permettra d’acquérir une compréhension pratique et théorique des fondamentaux de TensorFlow 2.0 en Deep Learning.
